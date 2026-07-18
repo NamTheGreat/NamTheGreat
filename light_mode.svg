@@ -83,8 +83,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Hugging Face</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">NamTheGreat</tspan></tspan>
 <tspan x="390" y="390" class="cc">. </tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -———————————————————————————————————————————————————————-—-
-<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">16</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">8</tspan></tspan>
-<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">1</tspan> | <tspan class="key">Following</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">2</tspan></tspan>
-<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Achievements</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Pull Shark, YOLO</tspan></tspan>
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">17</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">8</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">126</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc">. </tspan><tspan class="value">18,432</tspan> ( <tspan class="addColor">21,540++</tspan>, <tspan class="delColor">3,108--</tspan> )</tspan>
 </text>
 </svg>
