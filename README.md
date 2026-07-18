@@ -1,6 +1,6 @@
 <a href="https://github.com/NamTheGreat/NamTheGreat">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamTheGreat/NamTheGreat/main/dark_mode.svg?v=3">
-    <img alt="Naman Kalia's GitHub Profile README" src="https://raw.githubusercontent.com/NamTheGreat/NamTheGreat/main/light_mode.svg?v=3">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="Naman Kalia's GitHub Profile README" src="./light_mode.svg">
   </picture>
 </a>
