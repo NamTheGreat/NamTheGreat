@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">                                            </tspan>
+<tspan x="15" y="50">                                            </tspan>
+<tspan x="15" y="70">                                            </tspan>
+<tspan x="15" y="90">                                            </tspan>
+<tspan x="15" y="110">                                            </tspan>
+<tspan x="15" y="130">                                            </tspan>
+<tspan x="15" y="150">                 @M#M8$                     </tspan>
+<tspan x="15" y="170">              BkQ0LJYYJUJJLqM$              </tspan>
+<tspan x="15" y="190">            &amp;wqko&amp;88W8BMoaddhWaZ           </tspan>
+<tspan x="15" y="210">           hm8   %opCvvLk%8&amp;M8 do          </tspan>
+<tspan x="15" y="230">          &amp;Z  #m}` &quot;iil  [Zqbaaac#         </tspan>
+<tspan x="15" y="250">           m bnjt\(xLx-i+;in0kd#od          </tspan>
+<tspan x="15" y="270">          W1(zuCz  _[f1&quot;,  `wawQY@         </tspan>
+<tspan x="15" y="290">           t)(}\:  &quot;&#x27;       ~&quot;;  M         </tspan>
+<tspan x="15" y="310">            Y&gt;;ivct^          ^ !          </tspan>
+<tspan x="15" y="330">            Z&lt;?tY/[++~I&#x27;     _ z           </tspan>
+<tspan x="15" y="350">             /{\]~l    ,^    1%             </tspan>
+<tspan x="15" y="370">              Z\1?_?[}]+?[)~ m              </tspan>
+<tspan x="15" y="390">               #QdhbdmQQCc1^ w              </tspan>
+<tspan x="15" y="410">                BcLUzr){}~   &lt;             </tspan>
+<tspan x="15" y="430">                 1//]~l:^     U             </tspan>
+<tspan x="15" y="450">                *\1\{~:^.      |$           </tspan>
+<tspan x="15" y="470">              @JqQ})\+:&#x27;^&quot;.   ;tB          </tspan>
+<tspan x="15" y="490">           $##ZuZ0JucCzrncujJohaB   @       </tspan>
+<tspan x="15" y="510">         hakOztcLZpwJQmqZOLUd88$            </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">naman@github</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Windows 11 (25H2), macOS 26 Tahoe, Android 16, Linux</tspan></tspan>
+<tspan x="390" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Manipal University Jaipur</tspan></tspan>
+<tspan x="390" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">B.Tech CSE, Batch of 2027</tspan></tspan>
+<tspan x="390" y="110"><tspan class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Semester 6 | Petrol Pump Owner</tspan></tspan>
+<tspan x="390" y="130"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">VS Code</tspan></tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, JavaScript/TypeScript, Dart, C, SQL</tspan></tspan>
+<tspan x="390" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">React, Node.js, FastAPI</tspan></tspan>
+<tspan x="390" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Docker, Kubernetes, TensorFlow, scikit-learn, Pandas</tspan></tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">F1, sim racing, football, power-lifting, ML/RL projects</tspan></tspan>
+<tspan x="390" y="270" class="cc">. </tspan>
+<tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="330"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">namankalia1904@gmail.com</tspan></tspan>
+<tspan x="390" y="350"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">NamTheGreat</tspan></tspan>
+<tspan x="390" y="370"><tspan class="cc">. </tspan><tspan class="key">Hugging Face</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">NamTheGreat</tspan></tspan>
+<tspan x="390" y="390" class="cc">. </tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">16</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">8</tspan></tspan>
+<tspan x="390" y="490"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">1</tspan> | <tspan class="key">Following</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">2</tspan></tspan>
+<tspan x="390" y="510"><tspan class="cc">. </tspan><tspan class="key">Achievements</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Pull Shark, YOLO</tspan></tspan>
+</text>
+</svg>
