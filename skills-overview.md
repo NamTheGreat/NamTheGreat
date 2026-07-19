@@ -1,6 +1,6 @@
 # Custom Skills Overview
 
-Below is the list of all 14 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
+Below is the list of all 15 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
 
 ---
 
@@ -87,3 +87,9 @@ Specialist database tuning expert optimizing modern SQL across OLTP, OLAP, and h
 Analyzes execution plans, designs indexing strategies, partitions tables, and tunes buffer allocation.
 Models data schemas (star, snowflake, data vault) and handles slowly changing dimensions.
 Integrates real-time ETL pipelines, CDC triggers, event sourcing patterns, and row-level security.
+
+### 15. [mobile-developer](file:///Users/namankalia/.gemini/config/skills/mobile_developer/SKILL.md)
+Expert mobile developer building iOS/Android native and cross-platform (React Native/Flutter/Expo) applications.
+Masters advanced architectures (MVVM/Clean), state management, local storage, and background processing.
+Optimizes performance, memory limits, startup times, and integrates platform services like FCM, maps, and Apple Pay.
+Handles App Store / Google Play distribution, automated certificate signing, and OWASP mobile security.
