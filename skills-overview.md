@@ -1,6 +1,6 @@
 # Custom Skills Overview
 
-Below is the list of all 17 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
+Below is the list of all 18 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
 
 ---
 
@@ -105,3 +105,9 @@ CI/CD templates specialist creating production-ready GitHub Actions workflows.
 Configures test runs, build matrix steps, Docker image builds, and registry pushes.
 Integrates deployment pipelines for Kubernetes platforms and cloud-native targets.
 Incorporates automated security scans, credential checks, and Slack message notifications.
+
+### 18. [error-debugging-error-analysis](file:///Users/namankalia/.gemini/config/skills/error_debugging_error_analysis/SKILL.md)
+Error analysis and production incident investigator specialized in distributed systems.
+Analyzes error stack traces, log outputs, correlation tracing IDs, and performance flags.
+Designs robust exception handling, service recovery fallback configurations, and alerting rules.
+Uses systematic diagnosis checklists and implementation playbooks to prevent future regressions.
