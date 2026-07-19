@@ -1,6 +1,6 @@
 # Custom Skills Overview
 
-Below is the list of all 18 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
+Below is the list of all 19 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
 
 ---
 
@@ -111,3 +111,9 @@ Error analysis and production incident investigator specialized in distributed s
 Analyzes error stack traces, log outputs, correlation tracing IDs, and performance flags.
 Designs robust exception handling, service recovery fallback configurations, and alerting rules.
 Uses systematic diagnosis checklists and implementation playbooks to prevent future regressions.
+
+### 19. [error-handling-patterns](file:///Users/namankalia/.gemini/config/skills/error_handling_patterns/SKILL.md)
+Error resilience designer crafting clean error models, propagation patterns, and Result types.
+Implements graceful degradation paths, retry mechanisms, and circuit breaker patterns for API integration.
+Manages asynchronous and concurrent exception flows to prevent thread blockages or app crashes.
+Uses robust logging systems and helpful context formatting to speed up production incident debugging.
