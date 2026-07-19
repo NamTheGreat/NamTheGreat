@@ -1,6 +1,6 @@
 # Custom Skills Overview
 
-Below is the list of all 16 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
+Below is the list of all 17 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
 
 ---
 
@@ -99,3 +99,9 @@ Expert mobile developer building security-first iOS/Android native and cross-pla
 Masters mobile database encryption (SQLite, Core Data), Keychain/Keystore integration, and secure memory protection.
 Implements WebView sandboxing, strict URL allowlists, HTTPS certificate pinning, and biometric authentication gates.
 Prevents mobile-specific deep link injection, log data leakage, timing side-channel attacks, and reverse-engineering.
+
+### 17. [github-actions-templates](file:///Users/namankalia/.gemini/config/skills/github_actions_templates/SKILL.md)
+CI/CD templates specialist creating production-ready GitHub Actions workflows.
+Configures test runs, build matrix steps, Docker image builds, and registry pushes.
+Integrates deployment pipelines for Kubernetes platforms and cloud-native targets.
+Incorporates automated security scans, credential checks, and Slack message notifications.
