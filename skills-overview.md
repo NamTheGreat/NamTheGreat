@@ -1,6 +1,6 @@
 # Custom Skills Overview
 
-Below is the list of all 15 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
+Below is the list of all 16 specialized agent skills added during this session, along with a 4-line description of their purpose, capabilities, and when they are active.
 
 ---
 
@@ -93,3 +93,9 @@ Expert mobile developer building iOS/Android native and cross-platform (React Na
 Masters advanced architectures (MVVM/Clean), state management, local storage, and background processing.
 Optimizes performance, memory limits, startup times, and integrates platform services like FCM, maps, and Apple Pay.
 Handles App Store / Google Play distribution, automated certificate signing, and OWASP mobile security.
+
+### 16. [mobile-security-coder](file:///Users/namankalia/.gemini/config/skills/mobile_security_coder/SKILL.md)
+Expert mobile developer building security-first iOS/Android native and cross-platform applications.
+Masters mobile database encryption (SQLite, Core Data), Keychain/Keystore integration, and secure memory protection.
+Implements WebView sandboxing, strict URL allowlists, HTTPS certificate pinning, and biometric authentication gates.
+Prevents mobile-specific deep link injection, log data leakage, timing side-channel attacks, and reverse-engineering.
